@@ -1,6 +1,6 @@
 # 🧠 Network Traffic Analysis using C++ (libpcap)
 
-**By:** Devansh Pandey 
+**By:** Team IP Freely 
 **Course:** Computer Networks Lab  
 **Date:** November 2025  
 
